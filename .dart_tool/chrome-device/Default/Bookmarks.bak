@@ -1,0 +1,259 @@
+{
+   "checksum": "ca76519f6a0958ebf2ef70515cd76fea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13370258101901581",
+            "date_last_used": "0",
+            "guid": "4304f36e-3f17-41b1-b5ee-5a709262644b",
+            "id": "34",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258101901408",
+            "date_last_used": "0",
+            "guid": "346a9171-af8a-4c32-a808-34b9ff99b6d5",
+            "id": "33",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258101901093",
+            "date_last_used": "0",
+            "guid": "04bdd52b-f4cc-4a7a-b86a-2dc355c4419a",
+            "id": "32",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258101900314",
+            "date_last_used": "0",
+            "guid": "b59c60db-a2e6-48f1-a264-b804bcdf4d24",
+            "id": "31",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370257608810808",
+            "date_last_used": "0",
+            "guid": "9ba1f7f9-62d7-49ca-9186-a49b2321d6e7",
+            "id": "28",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13370257608810603",
+            "date_last_used": "0",
+            "guid": "5cd4b962-365f-4ee6-ba8f-bd22087e1b21",
+            "id": "27",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13370257608810451",
+            "date_last_used": "0",
+            "guid": "dce0e527-c06e-4d1f-a026-28146a97c22b",
+            "id": "26",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370257608809872",
+            "date_last_used": "0",
+            "guid": "c7c39450-22e8-4a93-ac4d-b5e4ddcc0c03",
+            "id": "25",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370256087069161",
+            "date_last_used": "0",
+            "guid": "fc409695-1bad-4e8e-83e6-cd1326ddfdb0",
+            "id": "22",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13370256087069073",
+            "date_last_used": "0",
+            "guid": "5e2ffe35-03e5-4454-a78c-eca0c215d926",
+            "id": "21",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13370256087068941",
+            "date_last_used": "0",
+            "guid": "3bf84c80-d5ad-407d-9e4a-205f2a383d7a",
+            "id": "20",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370256087068294",
+            "date_last_used": "0",
+            "guid": "8a59a0fb-2113-48ca-87ba-c278deb81fa2",
+            "id": "19",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370255939834675",
+            "date_last_used": "0",
+            "guid": "1be4592b-d3a9-4015-b5f0-220113c47d9f",
+            "id": "16",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13370255939834565",
+            "date_last_used": "0",
+            "guid": "311fe2b3-112f-4a10-899b-576ad514c1b9",
+            "id": "15",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13370255939834349",
+            "date_last_used": "0",
+            "guid": "73136461-050f-4994-9400-8883a64933ba",
+            "id": "14",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370255939833603",
+            "date_last_used": "0",
+            "guid": "ddd4f8b9-8d2d-4f5d-8a09-ad5dd9e232fa",
+            "id": "13",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13368263295585217",
+            "date_last_used": "0",
+            "guid": "320144e7-caad-45ab-8e1a-1c453028828e",
+            "id": "10",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13368263295585164",
+            "date_last_used": "0",
+            "guid": "9a0b526e-2460-4529-8b70-219c3c7862ca",
+            "id": "9",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13368263295585094",
+            "date_last_used": "0",
+            "guid": "6d3b8f60-a3fc-4766-8765-eb58469f6bf7",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13368263295584742",
+            "date_last_used": "0",
+            "guid": "c0789fa7-e6b3-46bd-a373-85195f7edb90",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13368263295245604",
+         "date_last_used": "0",
+         "date_modified": "13370258101901581",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13368263295245607",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13368263295245609",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

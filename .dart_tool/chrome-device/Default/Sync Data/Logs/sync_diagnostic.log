@@ -1,0 +1,162 @@
+2024-08-16T06:28:15.269Z P:12092 T:11492] SyncServiceImpl::Initialize,SyncState after the account was authenticated: NotSignedIn
+2024-08-16T06:28:16.625Z P:12092 T:14212] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-08-16T06:28:21.758Z P:12092 T:11492] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-08-16T06:28:21.758Z P:12092 T:11492] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-08-16T06:28:21.764Z P:12092 T:11492] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-08-16T06:28:21.764Z P:12092 T:11492] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-08-16T06:28:21.764Z P:12092 T:11492] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-08-16T06:28:21.764Z P:12092 T:11492] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-08-16T06:28:21.764Z P:12092 T:11492] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-08-16T06:28:21.764Z P:12092 T:11492] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-08-16T06:28:21.764Z P:12092 T:11492] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-16T06:28:21.764Z P:12092 T:7072] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-16T06:28:21.780Z P:12092 T:11492] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-08-16T06:28:21.780Z P:12092 T:11492] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Device Info, Send Tab To Self
+2024-08-16T06:28:21.780Z P:12092 T:11492] DataTypeManagerImpl::PrepareConfigureParams,Add types: Device Info, Send Tab To Self, Encryption Keys
+2024-08-16T06:28:21.780Z P:12092 T:7072] SyncManagerImpl::ConfigureSyncer,Types to download: Device Info, Send Tab To Self, Encryption Keys
+2024-08-16T06:28:22.054Z P:12092 T:11492] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-08-16T06:28:22.055Z P:12092 T:11492] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: User Consents
+2024-08-16T06:28:22.055Z P:12092 T:11492] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-16T06:28:22.055Z P:12092 T:7072] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-16T06:28:22.055Z P:12092 T:11492] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-08-16T06:28:23.058Z P:12092 T:7072] Commit::PostAndProcessResponse,Device Info: Success
+2024-08-16T06:28:23.058Z P:12092 T:7072] Commit::PostAndProcessResponse,User Consents: Success
+2024-09-08T07:58:59.454Z P:2212 T:12464] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequested
+2024-09-08T07:59:01.680Z P:2212 T:12464] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T07:59:01.680Z P:2212 T:12464] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T07:59:01.680Z P:2212 T:12464] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T07:59:09.674Z P:2212 T:12464] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-08T07:59:09.679Z P:2212 T:13556] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-08T07:59:09.721Z P:2212 T:12464] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T07:59:09.721Z P:2212 T:12464] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T07:59:09.721Z P:2212 T:12464] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-08T07:59:10.209Z P:2212 T:12464] SyncServiceImpl::OnEngineInitialized,Initialize engine with: Success
+2024-09-08T07:59:10.211Z P:2212 T:12464] ModelLoadManager::Configure,Desired types without errors: Device Info, User Consents, Send Tab To Self, Encryption Keys and types with errors: 
+2024-09-08T07:59:10.212Z P:2212 T:12464] ModelLoadManager::LoadDesiredTypes,Loading type: Device Info
+2024-09-08T07:59:10.212Z P:2212 T:12464] ModelLoadManager::LoadDesiredTypes,Loading type: User Consents
+2024-09-08T07:59:10.212Z P:2212 T:12464] ModelLoadManager::LoadDesiredTypes,Loading type: Send Tab To Self
+2024-09-08T07:59:10.213Z P:2212 T:12464] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-09-08T07:59:10.213Z P:2212 T:12464] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-09-08T07:59:10.213Z P:2212 T:12464] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-09-08T07:59:10.213Z P:2212 T:12464] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,Start to configure data types
+2024-09-08T07:59:10.213Z P:2212 T:12464] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 3 and next configuring types are: Encryption Keys
+2024-09-08T07:59:10.213Z P:2212 T:12464] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T07:59:10.668Z P:2212 T:8244] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T07:59:10.671Z P:2212 T:12464] DataTypeManagerImpl::ConfigurationCompleted,Need reconfigure with failed types: 
+2024-09-08T07:59:10.671Z P:2212 T:12464] ModelLoadManager::Configure,Desired types without errors: Device Info, User Consents, Send Tab To Self, Encryption Keys and types with errors: 
+2024-09-08T07:59:10.671Z P:2212 T:12464] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,Start to configure data types
+2024-09-08T07:59:10.671Z P:2212 T:12464] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 3 and next configuring types are: Encryption Keys
+2024-09-08T07:59:10.671Z P:2212 T:12464] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T07:59:10.672Z P:2212 T:16976] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T07:59:10.672Z P:2212 T:12464] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 2
+2024-09-08T07:59:10.672Z P:2212 T:12464] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 2 and next configuring types are: Device Info, Send Tab To Self
+2024-09-08T07:59:10.672Z P:2212 T:12464] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T07:59:10.672Z P:2212 T:8244] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T07:59:10.673Z P:2212 T:12464] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 1
+2024-09-08T07:59:10.674Z P:2212 T:12464] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 1 and next configuring types are: User Consents
+2024-09-08T07:59:10.674Z P:2212 T:12464] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T07:59:10.674Z P:2212 T:8244] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T07:59:10.675Z P:2212 T:12464] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 0
+2024-09-08T07:59:10.677Z P:2212 T:12464] SyncServiceImpl::OnConfigureDone,Configure DataTypeManager with: Ok
+2024-09-08T07:59:11.177Z P:2212 T:8244] Commit::PostAndProcessResponse,Process Device Info: Success
+2024-09-08T08:01:26.786Z P:8292 T:16328] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequested
+2024-09-08T08:01:28.364Z P:8292 T:16328] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T08:01:28.364Z P:8292 T:16328] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T08:01:28.364Z P:8292 T:16328] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:01:36.933Z P:8292 T:16328] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-08T08:01:36.938Z P:8292 T:12464] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-08T08:01:37.110Z P:8292 T:16328] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T08:01:37.110Z P:8292 T:16328] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T08:01:37.110Z P:8292 T:16328] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-08T08:01:37.366Z P:8292 T:16328] SyncServiceImpl::OnEngineInitialized,Initialize engine with: Success
+2024-09-08T08:01:37.368Z P:8292 T:16328] ModelLoadManager::Configure,Desired types without errors: Device Info, User Consents, Send Tab To Self, Encryption Keys and types with errors: 
+2024-09-08T08:01:37.368Z P:8292 T:16328] ModelLoadManager::LoadDesiredTypes,Loading type: Device Info
+2024-09-08T08:01:37.368Z P:8292 T:16328] ModelLoadManager::LoadDesiredTypes,Loading type: User Consents
+2024-09-08T08:01:37.368Z P:8292 T:16328] ModelLoadManager::LoadDesiredTypes,Loading type: Send Tab To Self
+2024-09-08T08:01:37.373Z P:8292 T:16328] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-09-08T08:01:37.373Z P:8292 T:16328] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-09-08T08:01:37.373Z P:8292 T:16328] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-09-08T08:01:37.373Z P:8292 T:16328] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,Start to configure data types
+2024-09-08T08:01:37.373Z P:8292 T:16328] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 3 and next configuring types are: Encryption Keys
+2024-09-08T08:01:37.373Z P:8292 T:16328] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T08:01:38.047Z P:8292 T:9040] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T08:01:38.047Z P:8292 T:16328] DataTypeManagerImpl::ConfigurationCompleted,Need reconfigure with failed types: 
+2024-09-08T08:01:38.047Z P:8292 T:16328] ModelLoadManager::Configure,Desired types without errors: Device Info, User Consents, Send Tab To Self, Encryption Keys and types with errors: 
+2024-09-08T08:01:38.047Z P:8292 T:16328] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,Start to configure data types
+2024-09-08T08:01:38.047Z P:8292 T:16328] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 3 and next configuring types are: Encryption Keys
+2024-09-08T08:01:38.047Z P:8292 T:16328] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T08:01:38.048Z P:8292 T:9040] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T08:01:38.048Z P:8292 T:16328] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 2
+2024-09-08T08:01:38.048Z P:8292 T:16328] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 2 and next configuring types are: Device Info, Send Tab To Self
+2024-09-08T08:01:38.048Z P:8292 T:16328] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T08:01:38.048Z P:8292 T:9040] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T08:01:38.048Z P:8292 T:16328] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 1
+2024-09-08T08:01:38.049Z P:8292 T:16328] DataTypeManagerImpl::StartNextConfiguration,Remain to be configured size: 1 and next configuring types are: User Consents
+2024-09-08T08:01:38.049Z P:8292 T:16328] DataTypeManagerImpl::PrepareConfigureParams,Prepare to be configured types: 
+2024-09-08T08:01:38.049Z P:8292 T:9040] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-09-08T08:01:38.050Z P:8292 T:16328] DataTypeManagerImpl::ConfigurationCompleted,Remain to be configured size: 0
+2024-09-08T08:01:38.050Z P:8292 T:16328] SyncServiceImpl::OnConfigureDone,Configure DataTypeManager with: Ok
+2024-09-08T08:26:48.520Z P:17396 T:14784] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequested
+2024-09-08T08:26:58.701Z P:17396 T:14784] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-08T08:26:58.702Z P:17396 T:16168] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-08T08:26:58.746Z P:17396 T:14784] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T08:26:58.746Z P:17396 T:14784] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T08:26:58.746Z P:17396 T:14784] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-08T08:31:15.363Z P:17396 T:14784] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:31:15.363Z P:17396 T:14784] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:31:21.475Z P:17396 T:10932] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:31:21.476Z P:17396 T:10932] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:31:48.372Z P:17396 T:14784] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:31:48.373Z P:17396 T:14784] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:35:01.558Z P:10144 T:2376] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequested
+2024-09-08T08:35:11.746Z P:10144 T:2376] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-08T08:35:11.748Z P:10144 T:10116] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-08T08:35:11.789Z P:10144 T:2376] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T08:35:11.789Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T08:35:11.789Z P:10144 T:2376] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-08T08:35:36.366Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:35:36.366Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:35:36.371Z P:10144 T:2008] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:35:36.372Z P:10144 T:2008] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:36:11.317Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:36:11.317Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:36:47.014Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:36:47.014Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:36:51.380Z P:10144 T:2008] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:36:51.380Z P:10144 T:2008] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:37:24.117Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:37:24.117Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:38:05.478Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:38:05.478Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:38:56.332Z P:10144 T:2376] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:38:56.332Z P:10144 T:2376] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:40:58.252Z P:6480 T:12292] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequested
+2024-09-08T08:41:08.402Z P:6480 T:12292] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-08T08:41:08.403Z P:6480 T:9300] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-08T08:41:08.452Z P:6480 T:12292] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-08T08:41:08.452Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-08T08:41:08.452Z P:6480 T:12292] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-08T08:41:32.924Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:41:32.924Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:41:32.929Z P:6480 T:6788] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:41:32.929Z P:6480 T:6788] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:42:06.615Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:42:06.615Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:42:42.439Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:42:42.439Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:42:47.944Z P:6480 T:6788] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:42:47.944Z P:6480 T:6788] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:43:19.317Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:43:19.317Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:44:00.174Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:44:00.174Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:44:40.449Z P:6480 T:6788] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:44:40.449Z P:6480 T:6788] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-09-08T08:44:49.579Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:44:49.579Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:45:52.906Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:45:52.906Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:47:26.591Z P:6480 T:12292] SyncAuthManager::EdgeLogTokenErrorState,Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2024-09-08T08:47:26.591Z P:6480 T:12292] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-09-08T08:47:29.217Z P:6480 T:6788] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2024-09-08T08:47:29.217Z P:6480 T:6788] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success

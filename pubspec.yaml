@@ -1,0 +1,65 @@
+name: e_commerce_apk
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+
+  get: ^4.6.5
+  get_storage: ^2.1.1
+
+  http: ^1.1.0
+  intl: ^0.18.1
+  logger: ^2.0.1
+  url_launcher: ^6.1.12
+  flutter_native_splash: ^2.3.2
+  smooth_page_indicator: ^1.1.0
+  lottie: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/brands/
+    - assets/icons/categories/
+    - assets/images/
+    - assets/logos/
+    - assets/gifs/
+    - assets/animations/
+
+    
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-Bold.ttf
+          weight: 500
+        - asset: assets/fonts/Ubuntu-BoldItalic.ttf
+          weight: 500
+        - asset: assets/fonts/Ubuntu-Italic.ttf
+          weight: 300
+        - asset: assets/fonts/Ubuntu-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Ubuntu-LightItalic.ttf
+          weight: 300
+        - asset: assets/fonts/Ubuntu-Medium.ttf
+          weight: 400
+        - asset: assets/fonts/Ubuntu-MediumItalic.ttf
+          weight: 400
+        - asset: assets/fonts/Ubuntu-Regular.ttf
+          weight: 300
+        
