@@ -176,12 +176,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "lottie",
-      "rootUri": "file:///C:/Users/SAI/AppData/Local/Pub/Cache/hosted/pub.dev/lottie-2.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
       "name": "matcher",
       "rootUri": "file:///C:/Users/SAI/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16",
       "packageUri": "lib/",
@@ -410,7 +404,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-09-08T08:23:32.895869Z",
+  "generated": "2024-09-08T17:17:19.556722Z",
   "generator": "pub",
   "generatorVersion": "3.1.1"
 }

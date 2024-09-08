@@ -1,8 +1,52 @@
 {
-   "checksum": "ca76519f6a0958ebf2ef70515cd76fea",
+   "checksum": "e85d1994ea38bf19c81956d24b17be4c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13370258458529107",
+            "date_last_used": "0",
+            "guid": "e29a1f3a-01e1-41e6-a63d-0932c0c8e7d1",
+            "id": "40",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258458529004",
+            "date_last_used": "0",
+            "guid": "dd8b8ded-c81c-43c2-8546-c3bf3e760665",
+            "id": "39",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258458528845",
+            "date_last_used": "0",
+            "guid": "40f60858-8b46-48c5-8a13-dfd106964d42",
+            "id": "38",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370258458528232",
+            "date_last_used": "0",
+            "guid": "12e3cf6f-6571-4edd-9468-cf20d1276ed4",
+            "id": "37",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
             "date_added": "13370258101901581",
             "date_last_used": "0",
             "guid": "4304f36e-3f17-41b1-b5ee-5a709262644b",
@@ -225,7 +269,7 @@
          } ],
          "date_added": "13368263295245604",
          "date_last_used": "0",
-         "date_modified": "13370258101901581",
+         "date_modified": "13370258458529107",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Favorites bar",
