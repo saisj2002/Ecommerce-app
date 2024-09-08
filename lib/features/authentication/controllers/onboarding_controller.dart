@@ -10,4 +10,6 @@ class OnBoardingController extends GetxController {
   void nextPage() {}
 
   void skipPage() {} 
+
+  void done() {} 
 }
